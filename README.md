@@ -1,17 +1,41 @@
 # dmr-code-plug
 
 ![DMR Trademark](https://www.dmrassociation.org/images/DMR-Association-logo.png)
-A repository to document and share **K1JBD's DMR** code plug and to persist related information.
+Documents **K1JBD's DMR** code plug and related information.
 
-## Downloading the Code Plug
+## Outline
 
-To download the code plug or and/or its documentation simply download or clone this repository.
+* Naming Conventions
+* DMR Networks
+* DMR Talk Groups
+* DMR Repeaters and Hot Spots
+* Crossband to TGIF, Yaesu Fusion
+* Analog Repeaters and Simplex Frequencies
+* Sources of Information
 
-## Reporting bugs
+## Naming Conventions
 
-Send bug reports, comments and suggestions by raising issues in this repository or emailing me using my contact info at [QRZ](https://www.qrz.com/db/k1jbd "K1JBDs QRZ Page").  *I am good on QRZ*
+## DMR Networks
 
-## Contributing
+## DMR Talk Groups
 
-Please send me Pull Requests.
+## DMR Repeaters and Hot Spots
 
+## Crossband to TGIF, Yaesu Fusion
+
+## Analog Repeaters and Simplex Frequencies
+
+## Sources of Information
+
+## License
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
