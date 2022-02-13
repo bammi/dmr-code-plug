@@ -3,26 +3,15 @@
 ![DMR Trademark](https://www.dmrassociation.org/images/DMR-Association-logo.png)
 A repository to document and share **K1JBD's DMR** code plug and to persist related information.
 
-## Outline
+## Downloading the Code Plug
 
-* Naming Conventions
-* DMR Networks
-* DMR Talk Groups
-* DMR Repeaters and Hot Spots
-* Crossband to TGIF, Yaesu Fusion
-* Analog Repeaters and Simplex Frequencies
-* Sources of Information
+To download the code plug or and/or its documentation simply download or clone this repository.
 
-## Naming Conventions
+## Reporting bugs
 
-## DMR Networks
+Send bug reports, comments and suggestions by raising issues in this repository or emailing me using my contact info at [QRZ](https://www.qrz.com/db/k1jbd "K1JBDs QRZ Page").  *I am good on QRZ*
 
-## DMR Talk Groups
+## Contributing
 
-## DMR Repeaters and Hot Spots
+Please send me Pull Requests.
 
-## Crossband to TGIF, Yaesu Fusion
-
-## Analog Repeaters and Simplex Frequencies
-
-## Sources of Information
